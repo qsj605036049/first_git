@@ -8,5 +8,6 @@ public class Git02Controller {
     public static void main(String[] args) {
         System.out.println("hi git");
         System.out.println("no git");
+        System.out.println("no no git");
     }
 }
