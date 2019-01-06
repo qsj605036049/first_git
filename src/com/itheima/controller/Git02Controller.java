@@ -10,5 +10,6 @@ public class Git02Controller {
         System.out.println("no git");
         System.out.println("yes git");
         System.out.println("no no git");
+        System.out.println("b1_nb");
     }
 }
