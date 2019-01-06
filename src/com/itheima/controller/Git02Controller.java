@@ -11,5 +11,6 @@ public class Git02Controller {
         System.out.println("yes git");
         System.out.println("no no git");
         System.out.println("master");
+        System.out.println("b1_nb");
     }
 }
